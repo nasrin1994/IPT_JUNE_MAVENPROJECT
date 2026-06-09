@@ -17,5 +17,8 @@ public class Test_Class extends Base_Class{
 
         navigateTo("https://www.google.com");
         navigate("refresh");
+        System.out.println("Git Check");
+        System.out.println("Git Check2");
+
     }
 }
